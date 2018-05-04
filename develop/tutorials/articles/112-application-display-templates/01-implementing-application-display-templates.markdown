@@ -93,7 +93,7 @@ exposing the ADT functionality to users. You'll walk through these steps now:
 
 4. Now that your portlet officially supports ADTs, you'll want to expose the
    ADT option to your users. Just include the
-   `<liferay-ui:ddm-template-selector>` tag in the JSP file you're using to
+   `<liferay-ddm:template-selector>` tag in the JSP file you're using to
    control your portlet's configuration.
 
     For example, it may be helpful for you to insert an `<aui:fieldset>` in your
